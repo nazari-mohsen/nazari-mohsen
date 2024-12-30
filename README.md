@@ -1,4 +1,5 @@
 
+- 🔭 I’m currently working AI on [langchain](https://www.langchain.com/)
 - 📝 I regularly write articles on [https://medium.com/@mohsen.nazari](https://medium.com/@mohsen.nazari)
 
 - 💬 Ask me about **Linux, Kubernetes, Docker, and Cloud**
@@ -19,8 +20,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/></a>
-    <a href="https://min.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/minio/minio-icon.svg" alt="minio" width="40" height="40"/></a>
-    <a href="https://fluxcd.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fluxcd/fluxcd-original.svg" alt="fluxcd" width="40" height="40"/></a>
+    <a href="https://min.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/minio/minio-original-wordmark.svg" alt="minio" width="40" height="40"/></a>
+    <a href="https://fluxcd.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fluxcd/fluxcd-original-wordmark.svg" alt="fluxcd" width="40" height="40"/></a>
     <a href="https://grafana.com/oss/loki/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="loki" width="40" height="40"/></a>
     <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/></a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
@@ -41,4 +42,8 @@
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
     <a href="https://www.travis-ci.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/></a>
     <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/></a>
+    <a href="https://www.elastic.co/elk-stack" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="40" height="40"/></a>
+    <a href="https://www.openai.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/OpenAI_Logo.svg" alt="ai" width="40" height="40"/></a>
+    <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Langchain_logo.svg" alt="langchain" width="40" height="40"/></a>
+        <a href="https://ollama.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Ollama_logo.svg" alt="ollama" width="40" height="40"/></a>
 </p>
