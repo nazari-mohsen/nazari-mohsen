@@ -1,3 +1,5 @@
+# Summary:
+###### Detail-oriented, quick, and self-directed DevOps engineer with over 8 years of hands-on experience in various roles including team and product management. Designed, implemented, and managed various Cloud, DevOps, and infrastructure projects.
 
 - 🔭 I’m currently working AI on [langchain](https://www.langchain.com/)
 - 📝 I regularly write articles on [https://medium.com/@mohsen.nazari](https://medium.com/@mohsen.nazari)
@@ -6,44 +8,20 @@
 
 - 📫 How to reach me **mohsen.nazari@hotmail.com**
 
-### Blogs posts
+## Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [⎈ How kube-proxy Performs Load Balancing with iptables in Kubernetes ⎈](https://medium.com/@mohsen.nazari/how-kube-proxy-performs-load-balancing-with-iptables-in-kubernetes-c8208ed9cdc8?source=rss-684e1947abac------2)
 
+## Socials:
+[![Site](https://img.shields.io/badge/WebSite-0A66C2?style=for-the-badge&logo=kubernetes&logoColor=white)](https://nazari-mohsen.github.io/profile/) 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazari-mohsen) 
+[![twitter](https://img.shields.io/badge/medium-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://medium.com/@mohsen.nazari) 
+# Tech Stack:
+![Linux](https://img.shields.io/badge/linux-%23D42029?style=for-the-badge&logo=linux&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white) ![DevOps](https://img.shields.io/badge/devops-0A66C2?style=for-the-badge&logo=devops&logoColor=white) ![AI](https://img.shields.io/badge/AI-%23000000?style=for-the-badge&logo=ai&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)  ![Gitlab](https://img.shields.io/badge/Gitlab-%235835CC.svg?style=for-the-badge&logo=gitlab&logoColor=white)  ![Prometheus](https://img.shields.io/badge/Prometheus-%23D42029?style=for-the-badge&logo=Prometheus&logoColor=white) ![Loki](https://img.shields.io/badge/loki-%231A1918.svg?style=for-the-badge&logo=loki&logoColor=white) ![ELK](https://img.shields.io/badge/elk-%23009639.svg?style=for-the-badge&logo=elk&logoColor=white) ![OpenStack](https://img.shields.io/badge/OpenStack-%23D42029?style=for-the-badge&logo=OpenStack&logoColor=white) ![ArgoCD](https://img.shields.io/badge/argocd-%23009639.svg?style=for-the-badge&logo=argo&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)   
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nazari-mohsen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazari-mohsen" height="30" width="40" /></a>
-<a href="https://medium.com/@mohsen.nazari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohsen.nazari" height="30" width="40" /></a>
-</p>
+<!--# GitHub Stats:-->
+<!--![](https://github-readme-stats.vercel.app/api?username=nazari-mohsen&theme=buefy&hide_border=false&include_all_commits=true&count_private=false)-->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/></a>
-    <a href="https://min.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/minio/minio-original-wordmark.svg" alt="minio" width="40" height="40"/></a>
-    <a href="https://fluxcd.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fluxcd/fluxcd-original-wordmark.svg" alt="fluxcd" width="40" height="40"/></a>
-    <a href="https://grafana.com/oss/loki/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="loki" width="40" height="40"/></a>
-    <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/></a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-    <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/></a>
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
-    <a href="https://www.travis-ci.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/></a>
-    <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/></a>
-    <a href="https://www.elastic.co/elk-stack" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="40" height="40"/></a>
-    <a href="https://www.openai.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/OpenAI_Logo.svg" alt="ai" width="40" height="40"/></a>
-    <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Langchain_logo.svg" alt="langchain" width="40" height="40"/></a>
-        <a href="https://ollama.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Ollama_logo.svg" alt="ollama" width="40" height="40"/></a>
-</p>
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=nazari-mohsen&theme=buefy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
+
+<!--[![](https://visitcount.itsvg.in/api?id=AhmadRafiee&icon=0&color=0)](https://visitcount.itsvg.in)-->
