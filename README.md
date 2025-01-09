@@ -11,6 +11,7 @@
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [⎈ How kube-proxy Performs Load Balancing with iptables in Kubernetes ⎈](https://medium.com/@mohsen.nazari/how-kube-proxy-performs-load-balancing-with-iptables-in-kubernetes-c8208ed9cdc8?source=rss-684e1947abac------2)
+- [⚙️ Why Idempotency in Ansible Code is Essential](https://medium.com/@mohsen.nazari/why-idempotency-in-ansible-code-is-essential-ecba0b7576fb?source=rss-684e1947abac------2)
 
 ## Socials:
 [![Site](https://img.shields.io/badge/WebSite-0A66C2?style=for-the-badge&logo=kubernetes&logoColor=white)](https://nazari-mohsen.github.io/profile/) 
