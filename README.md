@@ -4,7 +4,7 @@
 - 🔭 I’m currently working AI on [langchain](https://www.langchain.com/)
 - 📝 I regularly write articles on [https://medium.com/@mohsen.nazari](https://medium.com/@mohsen.nazari)
 
-- 💬 Ask me about **Linux, Kubernetes, Docker, and Cloud**
+- 💬 Ask me about **Linux, Python, Kubernetes, and Cloud**
 
 - 📫 How to reach me **mohsen.nazari@hotmail.com**
 
