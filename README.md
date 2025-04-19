@@ -1,7 +1,8 @@
 # Summary:
 ###### Detail-oriented, quick, and self-directed DevOps engineer with over 8 years of hands-on experience in various roles including team and product management. Designed, implemented, and managed various Cloud, DevOps, and infrastructure projects.
 
-- 🔭 I’m currently working AI on [AILogix](https://github.com/nazari-mohsen/AILogix/)
+- 🔭 Currently building AI-powered systems and autonomous agents.
+  
 - 📝 I regularly write articles on [https://medium.com/@mohsen.nazari](https://medium.com/@mohsen.nazari)
 
 - 💬 Ask me about **Linux, Python, Kubernetes, and Cloud**
